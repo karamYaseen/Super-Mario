@@ -1,4 +1,4 @@
-# Super-mario
+# Super-Mario Game
 
 Super mario Game built with Javafx and Object Oriented Programming (OOP) concepts.
 It utilizes built in animations in JavaFX to handle player movement and game environment.
