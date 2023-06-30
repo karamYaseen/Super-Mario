@@ -4,7 +4,7 @@ Super mario Game built with Javafx and Object Oriented Programming (OOP) concept
 It utilizes built in animations in JavaFX to handle player movement and game environment.
 This game was a project on what we studied this year in college.
 
-##TeamMade
+## TeamMade
 - Our Team Leader : [Mahmoud Samy](https://github.com/MahmoudSamy511)
 - [Kareem Ali]
 - [Mahmoud Said]
